@@ -49,8 +49,9 @@ python launch.py \
 ```
 
 ### Results
+#### Segmentation
 [![Watch the video](https://raw.githubusercontent.com/StructurallyDisentangled/StructurallyDisentangled/main/data/renders/t0.png)](https://raw.githubusercontent.com/StructurallyDisentangled/StructurallyDisentangled/main/data/renders/garden-tabletop.mp4)
-
+#### Highlight removal
 [![Watch the video](https://raw.githubusercontent.com/StructurallyDisentangled/StructurallyDisentangled/main/data/renders/r0.png)](https://raw.githubusercontent.com/StructurallyDisentangled/StructurallyDisentangled/main/data/renders/garden-tabletop_rm_hl.mp4)
 
 ## Train new scene
